@@ -1,10 +1,10 @@
-BAB AL SALAM UMRAH SERVICE — WEBSITE STARTER
+BAB AL SALAM UMRAH  — WEBSITE STARTER
 
 FILES
 - index.html: responsive one-page website starter
 
 BEFORE PUBLISHING
-1. Confirm the business WhatsApp number. The starter currently uses +974 6650 8479.
+1. Confirm the business WhatsApp number. The starter currently uses +974 31211500.
 2. Replace sample customer reviews with real reviews you have permission to publish.
 3. Add your real photos and videos; replace sample gallery images.
 4. Confirm current package prices, dates, hotel details, visa inclusions and terms before publishing.
